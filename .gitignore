@@ -1,0 +1,6 @@
+/Debug
+.settings/
+.vscode/
+.cproject
+.project
+SD_STM32F405 Debug.launch
